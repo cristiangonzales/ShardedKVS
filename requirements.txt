@@ -1,0 +1,5 @@
+Flask>=0.1
+flask-restful>=0.3
+jsonify>=0.5
+gevent>=1.2
+requests>=2.1
